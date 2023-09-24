@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\API_REST_SDA\API_REST_SDA\bin\Debug\net6.0\API_REST_SDA.exe
+C:\Users\User\source\repos\API_REST_SDA\API_REST_SDA\bin\Debug\net6.0\API_REST_SDA.deps.json
+C:\Users\User\source\repos\API_REST_SDA\API_REST_SDA\bin\Debug\net6.0\API_REST_SDA.runtimeconfig.json
+C:\Users\User\source\repos\API_REST_SDA\API_REST_SDA\bin\Debug\net6.0\API_REST_SDA.dll
+C:\Users\User\source\repos\API_REST_SDA\API_REST_SDA\bin\Debug\net6.0\API_REST_SDA.pdb
+C:\Users\User\source\repos\API_REST_SDA\API_REST_SDA\obj\Debug\net6.0\API_REST_SDA.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\API_REST_SDA\API_REST_SDA\obj\Debug\net6.0\API_REST_SDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\API_REST_SDA\API_REST_SDA\obj\Debug\net6.0\API_REST_SDA.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\API_REST_SDA\API_REST_SDA\obj\Debug\net6.0\API_REST_SDA.AssemblyInfo.cs
+C:\Users\User\source\repos\API_REST_SDA\API_REST_SDA\obj\Debug\net6.0\API_REST_SDA.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\API_REST_SDA\API_REST_SDA\obj\Debug\net6.0\API_REST_SDA.dll
+C:\Users\User\source\repos\API_REST_SDA\API_REST_SDA\obj\Debug\net6.0\refint\API_REST_SDA.dll
+C:\Users\User\source\repos\API_REST_SDA\API_REST_SDA\obj\Debug\net6.0\API_REST_SDA.pdb
+C:\Users\User\source\repos\API_REST_SDA\API_REST_SDA\obj\Debug\net6.0\API_REST_SDA.genruntimeconfig.cache
+C:\Users\User\source\repos\API_REST_SDA\API_REST_SDA\obj\Debug\net6.0\ref\API_REST_SDA.dll
+C:\Users\User\source\repos\API_REST_SDA\API_REST_SDA\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\API_REST_SDA\API_REST_SDA\obj\Debug\net6.0\API_REST_SDA.csproj.CopyComplete
