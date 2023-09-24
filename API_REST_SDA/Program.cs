@@ -36,8 +36,18 @@ internal class Program
         //    Console.WriteLine("------------------------------------------------------------");
         //});
 
-        var country = await countryService.GetByName("Albania");
-        Console.WriteLine(country.name.common + "  |   " + country.name.official + "   |  " + country.status + "   |   " + (country.independent ? "Yes" : "No"));
+        //var countries = await countryService.GetByLanguage("albanian");
+        //countryService.PrintAll(countries);
+
+        var _orderService = new OrderService();
+        await _orderService.AddOrder(new Order()
+        {
+            Customer = "tg",
+            Id = 1,
+            Price = 18,
+            Quantity = 21
+        });
+
 
         async Task GetAllGames()
         {
